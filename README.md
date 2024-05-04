@@ -1,7 +1,7 @@
 # FastVector
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
-[![License] (https://img.shields.io/github/license/franneck94/PythonProjectTemplate)](https://github.com/franneck94/PythonProjectTemplate/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/franneck94/PythonProjectTemplate)](https://github.com/franneck94/PythonProjectTemplate/blob/master/LICENSE)
 [![Build](https://github.com/franneck94/Python-Project-Template/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/franneck94/Python-Project-Template/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/franneck94/Python-Project-Template-Eng/branch/master/graph/badge.svg)](https://codecov.io/gh/franneck94/Python-Project-Template-Eng)
 [![Documentation](https://img.shields.io/badge/ref-Documentation-blue)](https://franneck94.github.io/Python-Project-Template-Eng/)
